@@ -1,2 +1,2 @@
-# TigerChess
-JAVA课程项目老虎棋
+# 驾校成绩管理系统
+swing+mysql
